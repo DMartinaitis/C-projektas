@@ -1,0 +1,14 @@
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\bin\Debug\net6.0\ScannerA.exe
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\bin\Debug\net6.0\ScannerA.deps.json
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\bin\Debug\net6.0\ScannerA.runtimeconfig.json
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\bin\Debug\net6.0\ScannerA.dll
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\bin\Debug\net6.0\ScannerA.pdb
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\ScannerA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\ScannerA.AssemblyInfoInputs.cache
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\ScannerA.AssemblyInfo.cs
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\ScannerA.csproj.CoreCompileInputs.cache
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\ScannerA.dll
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\refint\ScannerA.dll
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\ScannerA.pdb
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\ScannerA.genruntimeconfig.cache
+C:\Users\Dovmar\Desktop\csharpgpt\ScannerA\obj\Debug\net6.0\ref\ScannerA.dll
