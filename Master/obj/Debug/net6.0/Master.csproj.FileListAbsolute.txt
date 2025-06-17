@@ -1,0 +1,14 @@
+C:\Users\Dovmar\Desktop\csharpgpt\Master\bin\Debug\net6.0\Master.exe
+C:\Users\Dovmar\Desktop\csharpgpt\Master\bin\Debug\net6.0\Master.deps.json
+C:\Users\Dovmar\Desktop\csharpgpt\Master\bin\Debug\net6.0\Master.runtimeconfig.json
+C:\Users\Dovmar\Desktop\csharpgpt\Master\bin\Debug\net6.0\Master.dll
+C:\Users\Dovmar\Desktop\csharpgpt\Master\bin\Debug\net6.0\Master.pdb
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\Master.AssemblyInfoInputs.cache
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\Master.AssemblyInfo.cs
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\Master.csproj.CoreCompileInputs.cache
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\Master.dll
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\refint\Master.dll
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\Master.pdb
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\Master.genruntimeconfig.cache
+C:\Users\Dovmar\Desktop\csharpgpt\Master\obj\Debug\net6.0\ref\Master.dll
